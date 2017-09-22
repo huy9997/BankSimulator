@@ -1,0 +1,29 @@
+Test 1: Use data file, small units
+
+Enter simulation time (positive integer)       : 5
+Enter maximum transaction time of customers    : 5
+Enter chances (0% < & <= 100%) of new customer : 100
+Enter the number of tellers                    : 2
+Enter customer queue limit                     : 1
+Enter 1/0 to get data from file/Random         : 1
+Enter filename                                 : DataFile
+
+
+Test 2: Use random data, big units
+
+Enter simulation time (positive integer)       : 5000
+Enter maximum transaction time of customers    : 5
+Enter chances (0% < & <= 100%) of new customer : 100
+Enter the number of tellers                    : 3
+Enter customer queue limit                     : 3
+Enter 1/0 to get data from file/Random         : 0
+
+
+
+Test 3: Use random data, big units
+Enter simulation time (positive integer)       : 10000
+Enter maximum transaction time of customers    : 5
+Enter chances (0% < & <= 100%) of new customer : 50
+Enter the number of tellers                    : 10
+Enter customer queue limit                     : 10
+Enter 1/0 to get data from file/Random         : 0
